@@ -186,9 +186,9 @@ const App = () => {
 	return (
 		<View className="flex-1">
 			<ImageBackground
-				source={require("./assets/night.jpg")}
+				source={require("./assets/Scene-7.jpg")}
 				resizeMode="cover"
-				className="flex-1 justify-center aspect-h-1 aspect-w-3"
+				className="flex-1 w-full"
 			>
 				<SafeAreaView className="flex-1 items-center justify-center">
 					<View className="w-full px-5 opacity-90 flex-1">
